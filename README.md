@@ -1,7 +1,7 @@
-### 🤍 Hello World ! 👋
+### 🤍 Hello World! 👋
 - 😉 I'm Pasindu Shyamimda
-- :man_technologist: Software Engineering Student 
-- 🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering at SLIIT
+- :man_technologist: Associate Software Engineer
+- 🌱 Graduated with a BSc (Hons) in Information Technology, specializing in Software Engineering
 - 📫 Reach me
 
 <!--
